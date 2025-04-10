@@ -13,8 +13,7 @@ This system uses four specialized agents to create an optimized fantasy cricket 
 
 ## Features
 
-- Data-driven player selection
-- Consideration of match conditions
+- Data-driven player selection - Consideration of match conditions
 - Flexible captain/vice-captain choices
 - User customization options
 
@@ -53,14 +52,3 @@ The system will:
 2. Ask you to select teams for Dream11
 3. Analyze player stats and match conditions
 4. Generate an optimized Dream11 team
-
-## Future Improvements
-
-- Implement a RAG-based system for better data retrieval
-- Run the system after the toss for confirmed playing 11
-- Add more user customization options
-- Integrate with Dream11 API for real-time credit values
-
-## License
-
-MIT
