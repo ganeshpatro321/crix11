@@ -1,0 +1,10 @@
+crewai
+crewai_tools
+openai
+python-dotenv
+langchain-community
+langchain
+langchain-openai
+ipython
+serpapi
+google-search-results
